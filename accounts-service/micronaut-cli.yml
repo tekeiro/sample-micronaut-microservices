@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: org.keirobm.accounts
+---
+testFramework: kotlintest
+sourceLanguage: kotlin
